@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InVindicus
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 HTML, CSS and JavaScript, React, NextJS, TailwindCSS, etc.
 - 💞️ I’m looking to collaborate on projects
 - 📫 E-Mail: invindicus@gmail.com
 
